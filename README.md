@@ -1,2 +1,1 @@
-# my-new-project
-# mike
+apic-workshop
